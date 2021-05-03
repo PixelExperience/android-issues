@@ -28,19 +28,19 @@ Example: PixelExperience_raphael-10.0-20201218-0409-OFFICIAL
 ## Expected Behavior
 <!--- Tell us what should happen -->
 ```
-Write here
+Edit here
 ```
 
 ## Current Behavior
 <!--- Tell us what happens instead of the expected behavior -->
 ```
-Write here
+Edit here
 ```
 
 ## Possible Solution
 <!--- Not obligatory, but suggest a fix/reason for the bug, -->
 ```
-Write here
+Edit here
 ```
 
 ## Steps to Reproduce
