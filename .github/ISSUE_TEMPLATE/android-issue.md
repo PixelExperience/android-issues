@@ -1,5 +1,5 @@
 ---
-name: Bug reports
+name: Android bug reports
 about: Report problems related to our project
 title: Brief description of your problem
 ---
@@ -19,31 +19,31 @@ If you need help please check our Telegram group at https://t.me/pixelexperience
 Anything between <!- - and - -> won't be shown when your issue is created. 
 -->
 
-## Build date
+## Build version and date
 <!--- Anything that can help us identify the build you are using -->
 ```
 Example: PixelExperience_raphael-10.0-20201218-0409-OFFICIAL
 ```
 
-## Expected Behavior
+## Expected behavior
 <!--- Tell us what should happen -->
 ```
 Edit here
 ```
 
-## Current Behavior
+## Current behavior
 <!--- Tell us what happens instead of the expected behavior -->
 ```
 Edit here
 ```
 
-## Possible Solution
+## Possible solution
 <!--- Not obligatory, but suggest a fix/reason for the bug, -->
 ```
 Edit here
 ```
 
-## Steps to Reproduce
+## Steps to reproduce
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
 <!--- reproduce this bug. Include code to reproduce, if relevant -->
 ```
