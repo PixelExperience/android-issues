@@ -17,6 +17,10 @@ Make sure not to use extra mods when reporting a problem (for example: Magisk)
 If you need help please check our Telegram group at https://t.me/pixelexperiencechat
 
 Anything between <!- - and - -> won't be shown when your issue is created. 
+
+!!!
+PLEASE DON'T REMOVE BACKTICKS (`), OTHERWISE YOUR ISSUE WILL BE CLOSED AUTOMATICALLY
+!!!
 -->
 
 ## Build date
