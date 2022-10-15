@@ -60,7 +60,7 @@ Edit here
 <!-- THIS SECTION IS MANDATORY. If it is not filled out correctly, your issue will be marked as invalid.
 Example:
 /device polaris (found at https://wiki.pixelexperience.org/devices/)
-/version eleven or eleven_plus (for plus version)
+/version eleven or eleven_plus (for plus version) - Usually version written by word(s) 13=thirteen, 12=twelve, ... Or you can find out by running command "adb shell getprop org.pixelexperience.version" (or inspecting "adb shell getprop" output manually)
 -->
 
 /device
