@@ -217,7 +217,5 @@ body:
     value: Before posting the issue go through the steps you've written down to make
       sure the steps provided are detailed and clear.
   type: markdown
-description: Create a bug report for the PixelExperience team
-labels:
-- 'template: bug'
+description: Create a bug report
 name: Bug Report
