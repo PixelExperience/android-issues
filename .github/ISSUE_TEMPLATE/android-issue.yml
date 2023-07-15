@@ -32,6 +32,7 @@ body:
     multiple: false
     options:
     - Select one
+    - DRG
     - NB1
     - PL2
     - RM6785
