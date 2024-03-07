@@ -188,8 +188,7 @@ body:
     multiple: false
     options:
     - Select one
-    - thirteen
-    - thirteen_plus
+    - fourteen
   type: dropdown
   validations:
     required: true
